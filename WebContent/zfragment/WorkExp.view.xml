@@ -1,0 +1,13 @@
+<core:View xmlns:core="sap.ui.core" xmlns:mvc="sap.ui.core.mvc" xmlns="sap.m"
+		controllerName="zfragment.WorkExp" xmlns:html="http://www.w3.org/1999/xhtml">
+	<Page title="Title"  id="idPage">
+		
+		<footer>
+		   <Bar>
+		      <contentRight>
+		      	<Button text="Add More Experience" press="onPress"/>
+		      </contentRight>
+		   </Bar>
+		</footer>
+	</Page>
+</core:View>
